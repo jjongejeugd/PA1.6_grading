@@ -1,6 +1,6 @@
 # Activate GitHub Copilot in VS Code
 
-In [week 1 you might have applied for the GitHub Student Developer Pack](https://mude.citg.tudelft.nl/workbook-2025/assignments/PA1.1/6_github_copilot.html), which gives you access to GitHub Copilot. This is an AI tool that can help you write code by providing suggestions as you type. It is integrated into VS Code, so you can use it while working on your MUDE projects. Today we'll activate it.
+In [week 1 you might have applied for the GitHub Student Developer Pack](https://mude.citg.tudelft.nl/workbook-2026/assignments/PA1.1/07_github_copilot.html), which gives you access to GitHub Copilot. This is an AI tool that can help you write code by providing suggestions as you type. It is integrated into VS Code, so you can use it while working on your MUDE projects. Today we'll activate it.
 
 Note, if you don't have access to GitHub Copilot, you can still complete this assignment by using other LLMs like ChatGPT. However, the workflow will be slightly different as you won't have suggestions directly in your code editor. A TU Delft account gives you free access to [Microsoft Copilot](https://copilot.microsoft.com/) (different from GitHub Copilot). As with other LLMs which are not integrated into your programming environment, you will need to copy-paste code snippets. If you are using Microsoft Edge, you can sign in with your student account and use the built-in Copilot feature that is available in the sidebar.
 
